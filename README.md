@@ -1,9 +1,9 @@
 HTML5 test
 
-##Build
+## Build
 `npm run build`
 
-##Test by local server at port 9000
+## Test by local server at port 9000
 `npm run watch`
 
 
